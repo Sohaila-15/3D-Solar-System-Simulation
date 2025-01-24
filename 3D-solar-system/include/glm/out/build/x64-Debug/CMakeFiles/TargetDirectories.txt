@@ -1,0 +1,2 @@
+D:/Downloads/3d_project/Workshop-Spheres - starter/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Downloads/3d_project/Workshop-Spheres - starter/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
